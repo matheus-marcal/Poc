@@ -1,6 +1,4 @@
 var express = require('express')
-var queue = require('express-queue');
-var cors = require('cors')
 const Queue = require('bull');
 var app = express()
 
